@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**ARIGATO-DOUITASHIMASHITE/ARIGATO-DOUITASHIMASHITE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building practical AI automation systems using:
 
-Here are some ideas to get you started:
+- n8n
+- WordPress
+- Gemini
+- OpenAI
+- Claude
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Projects
+
+- n8n-ai-workflows
+- AI content automation
+- News aggregation workflows
+
+Interests
+
+- AI Automation
+- Open Source
+- Workflow Engineering
+- Content Systems
+
+Goals
+
+Build reusable open-source tools that help creators and small businesses automate content workflows.
