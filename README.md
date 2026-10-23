@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 
 I'm building practical AI automation systems using:
 
@@ -8,19 +8,19 @@ I'm building practical AI automation systems using:
 - OpenAI
 - Claude
 
-Current Projects
+### 🔭 Current Projects
 
-- n8n-ai-workflows
+- [n8n-ai-workflows](https://github.com/ARIGATO-DOUITASHIMASHITE/n8n-ai-workflows)
 - AI content automation
 - News aggregation workflows
 
-Interests
+### 🌱 Interests
 
 - AI Automation
 - Open Source
 - Workflow Engineering
 - Content Systems
 
-Goals
+### 🎯 Goals
 
 Build reusable open-source tools that help creators and small businesses automate content workflows.
